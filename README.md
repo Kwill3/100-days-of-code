@@ -1,9 +1,10 @@
 # 100-days-of-code
-100 Days of Code, self-explanatory
+## 100 Days of Code, progress log.
+
+### Intro: 
+Hello World! William Lee here and this is my log for the 100 Days of Code challenge. I've been learning coding on my own (online) for the most of the past year but I haven't been seriously making projects until recently. Since May 2018, I've been going through courses on codecademy and freecodecamp so I've had some knowledge of HTML, CSS and Javascript which should be sufficient for me to start doing some simple projects. In hindsight, the most useful thing I have learnt so far is to know how to search for the answers online and where to look for them. A lot of resources are actually easily found online but otherwise it would be helpful to have a friend or find help from the community. By the end of this challenge I hope to be able to at least be proficient in all the basics of front-end scripts and know how and where to learn the advanced concepts.
 
 ### Day 0: 18 February 2019
-
-**Intro**: Hello World! William Lee here and this is my log for the 100 Days of Code challenge. I've been learning coding on my own (online) for the most of the past year but I haven't been seriously making projects until recently. Since May 2018, I've been going through courses on codecademy and freecodecamp so I've had some knowledge of HTML, CSS and Javascript which should be sufficient for me to start doing some simple projects. In hindsight, the most useful thing I have learnt so far is to know how to search for the answers online and where to look for them. A lot of resources are actually easily found online and otherwise it would be helpful to have a friend or help from the community. By the end of this challenge I hope to be able to at least be proficient in all the basics of Front End scripts and know how and where to learn the advanced concepts.
 
 **Today's Progress**: Today is all about learning how to use GitHub through the terminal in Visual Studio Code, which is the IDE that I am using currently. I posted my 'test' repository and written down the steps from cloning the repository to adding and committing and putting update descriptions.
 
@@ -15,8 +16,8 @@
 
 **Today's Progress**: Did a simple clock project that takes the time from your device. 
 
-**Resources**: [Coder's Digital Clock Project] (https://googlecreativelab.github.io/coder-projects/projects/digital_clock/index.html)
-[My own clock] (https://github.com/Kwill3/clock)
+**Resources**: [Coder's Digital Clock Project](https://googlecreativelab.github.io/coder-projects/projects/digital_clock/index.html)
+[My own clock](https://github.com/Kwill3/clock)
 
 **Thoughts**: It is a very simple project, very suitable for absolute beginners and in my case very refreshing to go over all the HTML and CSS scripts that I have learned a while back. It did taught me something new thought, which was how to use jQuery. It is my first time using jQuery and I hope to learn more about it.
 
@@ -26,7 +27,7 @@
 
 **Today's Progress**: I started by searching online to see if anyone has come up with one and found Xavier Decuyper's JS TIX clock, then I read through his blog post and tried to the best of my abilities to write my own code. I admit I had to resort to reading his source code to figure out how to structure my own JS code. I wasn't able to get mine to run.
 
-**Resources**: [Xavier Decuyper's TIX] (https://www.savjee.be/2014/02/TixClock-clone-in-Javascript/)
+**Resources**: [Xavier Decuyper's TIX](https://www.savjee.be/2014/02/TixClock-clone-in-Javascript/)
 
 **Thoughts**: I still have a ways to go to be proficient in Javascript, I would like to be able to write my own code for the entirety of a project without having to refer to someone else's code but sometimes I just don't know what functions do I need to use. I might need to do some reading on people's codes and see if I can't learn something.
 
