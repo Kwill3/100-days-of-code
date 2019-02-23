@@ -1,10 +1,9 @@
-# 100-days-of-code
-## 100 Days of Code, progress log.
+# 100 Days of Code, progress log.
 
-### Intro: 
+<h2 align="center"> Intro </h2>
 Hello World! William Lee here and this is my log for the 100 Days of Code challenge. I've been learning coding on my own (online) for the most of the past year but I haven't been seriously making projects until recently. Since May 2018, I've been going through courses on codecademy and freecodecamp so I've had some knowledge of HTML, CSS and Javascript which should be sufficient for me to start doing some simple projects. In hindsight, the most useful thing I have learnt so far is to know how to search for the answers online and where to look for them. A lot of resources are actually easily found online but otherwise it would be helpful to have a friend or find help from the community. By the end of this challenge I hope to be able to at least be proficient in all the basics of front-end scripts and know how and where to learn the advanced concepts.
 
-<h2 align="center">  Day 0: 18 February 2019 </h2>
+<h2 align="center"> Day 0: 18 February 2019 </h2>
 
 **Today's Progress**: Today is all about learning how to use GitHub through the terminal in Visual Studio Code, which is the IDE that I am using currently. I posted my 'test' repository and written down the steps from cloning the repository to adding and committing and putting update descriptions.
 
@@ -48,3 +47,12 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center"> Day 5: 23 February 2019 </h2>
 
+<img src="https://photos.google.com/photo/AF1QipP3b19-yGnOB5EWrNe_quwmcDM6ZieE7agby13m" alt="">
+
+**Today's Progress**: Completed one of FreeCodeCamp's Responsive Web Design Project, which is the Survey Form Project.
+
+**Resources**: [FreeCodeCamp Responsive Web Design - Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/)
+[My Survey Form - CodePen](https://codepen.io/Kwill3/pen/JZXaqb)
+[GitHub](https://github.com/Kwill3/FCC-Survey)
+
+**Thoughts**: This was a fairly interesting project which I built with HTML and CSS, didn't find it to be too difficult but still had to look up online to jog my memory especially on the 'forms' part. OVerall, I now feel more confident working with HTML.
