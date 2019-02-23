@@ -17,7 +17,7 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Did a simple clock project that takes the time from your device. 
 
 **Resources**: [Coder's Digital Clock Project](https://googlecreativelab.github.io/coder-projects/projects/digital_clock/index.html)
-[My own clock](https://github.com/Kwill3/clock)
+[My own clock (Repository in GitHub)](https://github.com/Kwill3/clock)
 
 **Thoughts**: It is a very simple project, very suitable for absolute beginners and in my case very refreshing to go over all the HTML and CSS scripts that I have learned a while back. It did taught me something new thought, which was how to use jQuery. It is my first time using jQuery and I hope to learn more about it.
 
@@ -39,4 +39,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 ### Day 4: 22 February 2019
 
-**Today's Progress**:
+**Today's Progress**: Finally completed the TIX clock project, figured the reason for 'node' running on my JS file to have undefined properties for 'document' is because it is just running the external JS file which is not linked to the HTML file therefore would not be defined. I also learned a bit more about source control in VS Code.
+
+**Resources**: [TIX Clock Repository in GitHub](https://github.com/Kwill3/tix-clock)
+[Visual Code Studio tutorial by Traversy Media](https://www.youtube.com/watch?v=fnPhJHN0jTE)
+
+**Thoughts**: Still struggling with using the full functionality of VS Code but overall improving my working knowledge of it. It is very helpful and saves me a lot of keystrokes though, just need to figure out how to debug my future external JS files or find another way to build the projects.
