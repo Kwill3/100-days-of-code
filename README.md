@@ -47,7 +47,7 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center"> Day 5: 23 February 2019 </h2>
 
-<img src="https://photos.google.com/photo/AF1QipP3b19-yGnOB5EWrNe_quwmcDM6ZieE7agby13m" alt="">
+<img src="https://photos.app.goo.gl/VZqP7eTeVp4LiPf68" alt="">
 
 **Today's Progress**: Completed one of FreeCodeCamp's Responsive Web Design Project, which is the Survey Form Project.
 
