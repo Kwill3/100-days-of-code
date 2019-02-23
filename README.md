@@ -5,6 +5,8 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center"> Day 0: 18 February 2019 </h2>
 
+<img src="https://lh3.googleusercontent.com/4mI3p4p_wZ8UWauquBDpjOrJX0B0fCKI07wOmuJhqSg6uU36dTIxpovB3hSwhMuZHJ5atSIFwxC7fXTyHJ0PXdBfhDD77x1pFEu86iYdYwzpYp-CwaR7gwszluFiQhpRdeJBcnA_RRJaaLCyktpz10f-AJ1TKi-ceu1N1TK4N5s1Iyd2i8cPzMOe2drtk6DCaZoGBg603xNjIP8BfSsuOgNGQvCvx6rk_TIm6AN9a1VqeJePMhR0Qk1Ca5GaruxDsVxTb3qt7H3_UD9WG-xiG5e6_NDmvU-BZgDBaDoGeLwevMo2OhUK9_RFWM5o1GXrA49Qvs58Ki2XyN2WCnUeh3LBoC3d6NvM_G28kaL4O_dkj1fOCJf3Qc2vDkgO32el9QknUpzp8PDrSAA8upn4ol7xg5phkX6Sl-NyWma3iDaMHuwFAr-Zc77ugln6v8acQYBK2sM8mhSjr48Tx1yJ-pUksCAfvfr4XXbz9Q5PNp1fqGie9ctYZ1xCprbQiYik-fJKBBiatiUzRZHWkejrNDc_6aN4Jkh5e7oTnMO8yr2G7aAfVa3xE4Kr28RW4P1XsxL3sNmL-pLlHAdxcrsH2WM3dY5uqyWESrri3OLmLGmvBWhePXEQGCKMnOOYTKDjcIyshYtazvjCawWK3M8rLMpON2Kmz7U=w683-h198-no" alt="terminal-in-vsc">
+
 **Today's Progress**: Today is all about learning how to use GitHub through the terminal in Visual Studio Code, which is the IDE that I am using currently. I posted my 'test' repository and written down the steps from cloning the repository to adding and committing and putting update descriptions.
 
 **Resources**: [FreeCodeCamp's GitHub tutorial by Tiffany Thompson](https://www.youtube.com/watch?v=x0EYpi38Yp4)
@@ -12,6 +14,8 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Thoughts**: GitHub definitely comes off as being intimidatingly intricate and using terminal to commit to repositories, even much so. However I hope to be able to make heads or tails of the whole site and it's functions as I've heard it is really useful to know the capabilities of GitHub.
 
 <h2 align="center">  Day 1: 19 February 2019 </h2>
+
+<img src="https://lh3.googleusercontent.com/Gk_9KUvtRX9DiM0rVvKUA0-k4GWFAG4Ank5kJrvxUMtlKcGCbu6AwzrVsmN2si1Zzao6B-NF0w0egiG12XVyDJBlhI_gb5nfHH_msH75GHXJ4y7G7Q2f7q2Hcf6mmpW20ml2gUHYN58wLcZJdiqVSpx9zlLmQbyfjZK9AQhr_DXjJvpY-37XKs0A7NXwHb_nyaNvxWOc0WgqKg2oSAm5U_DEFBFeolzG2KRCbBp7nrB23MbHVyRD6Tbht9YeRtSsIQA7wHcW8cGL9WFTQH-Wj7WJk2oPSzH3sxjAqra9oXKRJl56k8koSKNnc7zUZY99vONIQr4FMKNnnWAoW8NPF8N9xzWownWMhaoOvkrCVvsu6G03sw-4qFQo6CZ3RT0OT9sGC6fSWYP9hH4tgkiZv28btv04yTyx-YXSSUfO1ji04dTHUcY77IuYYvHbklVs17twPzP-ZSqNZRzPf36_sZDv0xDsrPlK4yJfk-oS1NflcUqIKoO-sMf7doXQ345RaT3CG1VyJ89-eRjiUvG30vwv-EC8yHdBE53vWyHyEGdFwUnqCGqkc8-n-FYic-6EzG8_IZHredJJ06amavCk77Kle6ZZScKW5oDcm6qFMfkZN-nq2lJisNFEvW5ncngxC0WN0tYysI6WC1vFmoIPTReVJ5c4pMw=w1006-h457-no" alt="simple-clock">
 
 **Today's Progress**: Did a simple clock project that takes the time from your device. 
 
@@ -22,11 +26,14 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center">  Day 2: 20 February 2019 </h2>
 
+<img src="https://lh3.googleusercontent.com/_PqTvH6341QvfcUaIGwEy2bSfOIIaBi5xqgBlfLiHi2vCBmdLSt2rcEPpw_uG6XEpWP8C1X9awYT2xlJLS6J5LjuNB2nHjhy971g_YTCzS97IhgjSUBasW6ZBVnk5c8Y2keaVfKVP0rdg5SKNOPdyi2PpzmUaBYyWehBuE2ldLBLhdcpbYVBeb2sJCA4XRq0fXgn1ZnWmXnD3kOpZ1sXwYfPFHdrTM2ebg25BLlNeBgLage1oh6TnP5ZTDZDgkif0DjFQoLWzjQtiWE-39T1iNYV6H0kVY93PnpMnOm8NKSWxhQt-4HlFLuP3u6-VJEX-JLGpeJmM6ZRypuKeYESURngRHXH0yiPDLQyzcMmHeXGQGTwJ-vgBEBvumCSA4RXF_Ca80HN7pzHYwMc5Rz2lUGwgvCol3jxMG2GcXiyJ3xY-DZ3bc4c93Os8GAbW5HFuKhBkOsLzS0t2hV191RP3Jx1yNK1XdDjaLCHrW22JBZksPGT5shXEiMwya2Xe-53uGd8tbs5RFzMBN_9BqZZo9CnRcb-S-BkPx2ZZBBKPwzeDCg5VazqUQC0l54TEoa2h9CVIw3-LYvKorriBeG9prWMaXje0Y6LfThMjY79OVeiRaQdOb1xHgVC4hEsmIiBTNRZiW_8L4_mFLsBMGyQRiVCg7K9toU=w727-h409-no" alt="destin-smarter-every-day">
+
 **Intro**: Started another clock project (I have no obsessions with clocks, I promise) which I have been wanting to do for a long time but never gotten around to doing it. I first saw this clock from Destin of SmarterEveryDay, back then I haven't even started learning coding and I was gonna build the physical clock but never gotten around to it. Now I get to build the virtual one! It is called a TIX clock and it is one geeky little clock. 
 
 **Today's Progress**: I started by searching online to see if anyone has come up with one and found Xavier Decuyper's JS TIX clock, then I read through his blog post and tried to the best of my abilities to write my own code. I admit I had to resort to reading his source code to figure out how to structure my own JS code. I wasn't able to get mine to run.
 
 **Resources**: [Xavier Decuyper's TIX](https://www.savjee.be/2014/02/TixClock-clone-in-Javascript/)
+[SmarterEveryDay](https://youtu.be/VvVigAr4hZc?t=660)
 
 **Thoughts**: I still have a ways to go to be proficient in Javascript, I would like to be able to write my own code for the entirety of a project without having to refer to someone else's code but sometimes I just don't know what functions do I need to use. I might need to do some reading on people's codes and see if I can't learn something.
 
@@ -36,11 +43,14 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Thoughts**: By the end of the day before retiring to bed, my plans for tomorrow is to find out the root cause, which I figure probably might have something to do with the 'node' not working correctly in my IDE to access the DOM. I have squinted at every line of my code and still could not find what is wrong, it doesn't help that I couldn't use the debug feature on VS either (which might be also because of the same error).
 
-<h2 align="center"> Day 4: 22 February 2019 </h2> 
+<h2 align="center"> Day 4: 22 February 2019 </h2>
+
+<img src="https://lh3.googleusercontent.com/KX-_FliqzfJdY1uwSOCAk1tDSMoMJc1BOWM8cDiSr1yXK0qktjjFEg3i_K30hzg9dObRj7Dqht1U5NCKxO3Tr_gAdeRlNe909eR_BnpJZQYQGsnie0zP_S70cMpNhbkaClzIrwJtUrNqoti-cIcGPAbjSPOeqmVZOcpn_lw8ua9EnPgN-NAfypM4fjbytyTlMrlsWXkfBKO6_N462qhGyTU-fRHhs_uAYyvddBc7xmRyyl50hJZoViK7dg1zpUTAvOViy6MFpaCWQOoVDwwEtpryTXmsSrdCjiqiNpl01S76tmKA5SpFmX2IQLc4eEZp2CvRbUtYO9n9JUaMwCQMNylGYa9FBaQrFQX55qcJc9qvU2LpliVdkmkvmzcYLcIV0Xv48gUN1uGLqZxGsRUQKW83sijnL53-O-_om_UYIk5PS2VhvO0PYFCJyVRoM4Lsr1mZPV2UVvqD1yVCOYfNmgJSrlKbMmlyiS83UDQxXIBTy0TRebfsmRR14y86M99YjM2ADl2AHqaZS9KtosnITILDquEswcOFPEGEV0VYgAF4bc65lwBrN1JrPeDm6K6AxTz5HkEje-ybkUgDMvBTxsB8mDZcF8DRErmdzjQTOQTthR-3rdqE0BR67KkTyKI_Q-CrNN2O5m5pOupBOtGtGSIOWu3EeQs=w1006-h457-no" alt="tix-clock">
 
 **Today's Progress**: Finally completed the TIX clock project, figured the reason for 'node' running on my JS file to have undefined properties for 'document' is because it is just running the external JS file which is not linked to the HTML file therefore would not be defined. I also learned a bit more about source control in VS Code.
 
 **Resources**: [TIX Clock Repository in GitHub](https://github.com/Kwill3/tix-clock)
+[TIX in CodePen](https://codepen.io/Kwill3/full/YBbgRv)
 [Visual Code Studio tutorial by Traversy Media](https://www.youtube.com/watch?v=fnPhJHN0jTE)
 
 **Thoughts**: Still struggling with using the full functionality of VS Code but overall improving my working knowledge of it. It is very helpful and saves me a lot of keystrokes though, just need to figure out how to debug my future external JS files or find another way to build the projects.
