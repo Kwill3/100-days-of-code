@@ -66,3 +66,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [GitHub](https://github.com/Kwill3/FCC-Survey)
 
 **Thoughts**: This was a fairly interesting project which I built with HTML and CSS, didn't find it to be too difficult but still had to look up online to jog my memory especially on the 'forms' part. OVerall, I now feel more confident working with HTML.
+
+<h2 align="center"> Day 6: 24 February 2019 </h2>
+
+**Today's Progress**: Got started on the next Responsive Web Design project by FreeCodeCamp which is to design a Product Landing Page. This is a much more challenging project for me because I never got to work with headers and video links prior to this, which meant I had to watch a tutorial before I could start writing my code. Also, I was recommended to use Bootstrap for this and the following projects. Thus my side quest to learn Bootstrap begins...
+
+**Resources**: [FreeCodeCamp Responsive Web Design - Product Landing Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/)
+
+**Thoughts**: Still learning the ropes on Bootstrap. Got into a bit of a jam, I actually had some problems trying to add the bootstrap scripts into my html but I am still determined to push on.
