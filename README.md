@@ -74,3 +74,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [FreeCodeCamp Responsive Web Design - Product Landing Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/)
 
 **Thoughts**: Still learning the ropes on Bootstrap. Got into a bit of a jam, I actually had some problems trying to add the bootstrap scripts into my html but I am still determined to push on.
+
+<h2 align="center"> Day 7: 25 February 2019 </h2>
+
+**Today's Progress**: Continued working on the Product Landing page, managed to get the navigation bar to work. Watched a lot of tutorial videos and read Bootstrap documentation to better understand how to use Bootstrap to design my project.
+
+**Resources**: [Bootstrap Navbar Resources](https://getbootstrap.com/docs/3.3/components/#navbar)
+
+**Thoughts**: Managed to learn a lot about Bootstrap today, I think I am starting to get confident with using it. The challenge is to use Bootstrap and still fulfill all the requirements set to the project by FCC, not just create a nice looking landing page. 
