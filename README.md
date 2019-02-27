@@ -82,3 +82,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [Bootstrap Navbar Resources](https://getbootstrap.com/docs/3.3/components/#navbar)
 
 **Thoughts**: Managed to learn a lot about Bootstrap today, I think I am starting to get confident with using it. The challenge is to use Bootstrap and still fulfill all the requirements set to the project by FCC, not just create a nice looking landing page. 
+
+<h2 align="center"> Day 8: 26 February 2019 </h2>
+
+**Today's Progress**: I just found out I have been updating my files wrongly in GitHub, I have been pushing commits into the master branch all the while. The best practice is to make a new branch, commit and push, then make a pull request to add it into the master branch. This is best practice to make the master branch clean. Well I'm glad I found that out early. Besides that, I managed to complete almost 80% of the Landing Page project.
+
+**Resources**: [GitHub commandline resources](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html)
+
+**Thoughts**: Everything went smoothly today. Bootstrap is actually a very handy tool in helping move things around according to the screen size, I'm glad there are tools out there like this to help make designing a device compatible website easier. Its funny to think that 24 hours ago, this seemed like a daunting task but now feel so intuitive.
