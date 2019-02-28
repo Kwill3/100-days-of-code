@@ -100,3 +100,8 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Thoughts**: I'm glad to have completed the project, after several days of working on it. Several images won't be able to load inside CodePen because I used an external image link which I am not able to upload into CodePen because I do not have a Pro account yet. Nevertheless you can get the full files and source code from my GitHub, if you are curious (it's nothing special though).
 
+<h2 align="center"> Day 10: 28 February 2019 </h2>
+
+**Today's Progress**: Almost all the way through with the Technical documentation page, just need to fix the side navigation bar which is proving to be difficult so far.
+
+**Thoughts**: Working with Bootstrap certainly makes things a lot easier but I wonder if I need to train myself to know the intricate details of CSS so that it will help me immensely when I try to design in detail.
