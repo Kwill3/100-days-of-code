@@ -123,3 +123,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [Personal Portfolio GitHub](https://github.com/Kwill3/FCC-Personal-Portfolio)
 
 **Thoughts**: I've been thinking of getting an image web hosting service, as I have only been using external attachments for images so far. For websites like CodePen, I am not able to link to my images to my projects and thus the page looks quite barren. Besides that, I am very proud to have completed the Responsive Web Design Projects by FCC and gotten my first certification. I will be aiming for the other achievements moving forward.
+
+<h2 align="center"> Day 13: 03 March 2019 </h2>
+
+**Today's Progress**: Started on FreeCodeCamp's Javascript algorithm scripting.
+
+**Resources**: [FCC Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
+**Thoughts**: I've always had trouble with Javascript algorithms, it definitely doesn't come easily to me. I plan to complete the intermediate lessons before I go ahead into the projects.
