@@ -102,6 +102,24 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center"> Day 10: 28 February 2019 </h2>
 
-**Today's Progress**: Almost all the way through with the Technical documentation page, just need to fix the side navigation bar which is proving to be difficult so far.
+**Today's Progress**: Almost all the way through with the Technical Documentation Page, just need to fix the side navigation bar which is proving to be difficult so far.
 
 **Thoughts**: Working with Bootstrap certainly makes things a lot easier but I wonder if I need to train myself to know the intricate details of CSS so that it will help me immensely when I try to design in detail.
+
+<h2 align="center"> Day 11: 01 March 2019 </h2>
+
+**Today's Progress**: Completed the Technical Documentation Page by changing side navigation styling from Bootstrap to just pure CSS. Bootstrap wasn't working correctly to attach the navigation bar to the left of the page. Getting started on the last project in the Responsive Web Design series of FCC.
+
+**Resources**: [Technical Doc in CodePen](https://codepen.io/Kwill3/pen/zbrpqa)
+[Personal Portfolio Webpage by FCC](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+**Thoughts**: I'm excited to finally come close to obtaining my first certification by FCC. I want to move on to hone my Javascript Algorithm and Data Structures skills next so I will probably be doing a lot of the for the whole of next week.
+
+<h2 align="center"> Day 12: 02 March 2019 </h2>
+
+**Today's Progress**: Completed the final Responsive Web Project by FCC!
+
+**Resources**: [Personal Portfolio CodePen](https://codepen.io/Kwill3/pen/rReOMe)
+[Personal Portfolio GitHub](https://github.com/Kwill3/FCC-Personal-Portfolio)
+
+**Thoughts**: I've been thinking of getting an image web hosting service, as I have only been using external attachments for images so far. For websites like CodePen, I am not able to link to my images to my projects and thus the page looks quite barren. Besides that, I am very proud to have completed the Responsive Web Design Projects by FCC and gotten my first certification. I will be aiming for the other achievements moving forward.
