@@ -131,3 +131,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [FCC Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
 **Thoughts**: I've always had trouble with Javascript algorithms, it definitely doesn't come easily to me. I plan to complete the intermediate lessons before I go ahead into the projects.
+
+<h2 align="center"> Day 14: 04 March 2019 </h2>
+
+**Today's Progress**: Continued practicing on FreeCodeCamp's Javascript algorithm scripting.
+
+**Thoughts**: I found out that I am particularly terrible at algorithms. I am going to need to brush up on more exercises, I found myself getting stuck often and needing to refer to a lot of sources to solve the problems. This might take a while...
