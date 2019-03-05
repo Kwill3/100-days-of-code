@@ -134,6 +134,14 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 <h2 align="center"> Day 14: 04 March 2019 </h2>
 
-**Today's Progress**: Continued practicing on FreeCodeCamp's Javascript algorithm scripting.
+**Today's Progress**: Continued practicing on FreeCodeCamp's Intermediate Javascript algorithm scripting.
 
 **Thoughts**: I found out that I am particularly terrible at algorithms. I am going to need to brush up on more exercises, I found myself getting stuck often and needing to refer to a lot of sources to solve the problems. This might take a while...
+
+<h2 align="center"> Day 15: 05 March 2019 </h2>
+
+**Today's Progress**: Continued practicing on FreeCodeCamp's Intermediate Javascript algorithm scripting.
+
+**Resources**: [GitHub](https://github.com/Kwill3/FCC-Intermediate-Algorithms)
+
+**Thoughts**: I figured I should upload my progress into GitHub, so here it is. I think I did pretty well today, managed to get a few challenges done. Still a lot more to go before I finish the whole chapter though...
