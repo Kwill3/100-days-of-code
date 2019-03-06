@@ -145,3 +145,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [GitHub](https://github.com/Kwill3/FCC-Intermediate-Algorithms)
 
 **Thoughts**: I figured I should upload my progress into GitHub, so here it is. I think I did pretty well today, managed to get a few challenges done. Still a lot more to go before I finish the whole chapter though...
+
+<h2 align="center"> Day 16: 06 March 2019 </h2>
+
+**Today's Progress**: Studied about more algorithms. Also did some studying about Introduction to Python.
+
+**Thoughts**: Still getting stumped by the algorithm challenges, I guess this is the part where I was told about not knowing what you don't know. I was always taught to use the functions and methods in a simple case scenario, I had no idea how to use them compounded together until I see some solutions. Hopefully I can catch the patterns and know how to use them again the next time.
