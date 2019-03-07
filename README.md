@@ -151,3 +151,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Studied about more algorithms. Also did some studying about Introduction to Python.
 
 **Thoughts**: Still getting stumped by the algorithm challenges, I guess this is the part where I was told about not knowing what you don't know. I was always taught to use the functions and methods in a simple case scenario, I had no idea how to use them compounded together until I see some solutions. Hopefully I can catch the patterns and know how to use them again the next time.
+
+<h2 align="center"> Day 17: 07 March 2019 </h2>
+
+**Today's Progress**: Between work and a company event I had today, I didn't have time to code on my computer but I discovered this amazing app that lets me code on my phone! So although I got home late, I managed to get my hour of code in. 
+
+**Resources** : [SoloLearn](https://www.sololearn.com/)
+
+**Thoughts**: This app is amazing! They have courses for programming languages like your usual run of the mill bootcamp but what I liked was that there was a challenge mode that lets you face off with other users in a 5 question quiz and puts XP points at stake. They also have badges to unlock which really motivates me to keep at it, I spent so much time on this app whenever I have some down time or when I'm on the move. I'm excited to go through the algorithm and data structures section. IT IS BRILLIANT. 
