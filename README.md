@@ -159,3 +159,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources** : [SoloLearn](https://www.sololearn.com/)
 
 **Thoughts**: This app is amazing! They have courses for programming languages like your usual run of the mill bootcamp but what I liked was that there was a challenge mode that lets you face off with other users in a 5 question quiz and puts XP points at stake. They also have badges to unlock which really motivates me to keep at it, I spent so much time on this app whenever I have some down time or when I'm on the move. I'm excited to go through the algorithm and data structures section. IT IS BRILLIANT. 
+
+<h2 align="center"> Day 18: 08 March 2019 </h2>
+
+**Today's Progress**: Completed 2 more intermediate algorithms challenges.
+
+**Resources**: [GitHub](https://github.com/Kwill3/FCC-Intermediate-Algorithms)
+
+**Thoughts**: Learning code on SoloLearn really helps me recap all the things I have learned on Javascript way back when. I'm feeling more confident now when I am solving the algorithms, using new knowledge helps me to remember it better.
