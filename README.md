@@ -167,3 +167,15 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [GitHub](https://github.com/Kwill3/FCC-Intermediate-Algorithms)
 
 **Thoughts**: Learning code on SoloLearn really helps me recap all the things I have learned on Javascript way back when. I'm feeling more confident now when I am solving the algorithms, using new knowledge helps me to remember it better.
+
+<h2 align="center"> Day 19: 09 March 2019 </h2>
+
+**Today's Progress**: Completed one intermediate algorithms challenge and did a refresher course on ES6 JS using SoloLearn. 
+
+**Thoughts**: I find returning to courses to refresh my memory helps to cement the functions that I haven't used as much. It is coming in very handy on my algo challenges, I find myself using functions that I haven't been using as much before.
+
+<h2 align="center"> Day 20: 10 March 2019 </h2>
+
+**Today's Progress**: Completed two intermediate algorithms challenge and started a course on jQuery in SoloLearn.
+
+**Thoughts**: I'm proud of my progress this weekend because I had a lot of activities but I still managed to squeeze in time for 100 days of code. Being able to code on the move really helps a lot with this, as I used to only code while at home. Meanwhile I am making steady progress on the algorithms!
