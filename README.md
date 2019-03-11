@@ -179,3 +179,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Completed two intermediate algorithms challenge and started a course on jQuery in SoloLearn.
 
 **Thoughts**: I'm proud of my progress this weekend because I had a lot of activities but I still managed to squeeze in time for 100 days of code. Being able to code on the move really helps a lot with this, as I used to only code while at home. Meanwhile I am making steady progress on the algorithms!
+
+<h2 align="center"> Day 21: 11 March 2019 </h2>
+
+**Today's Progress**: Got stumped on one of the algorithm challenges today, I am required to produce the LCM (lowest common multiple) of numbers within a range. Had to look up the solution which utilises the Euclidian Method to solve the problem.
+
+**Thoughts**: Although I had to resort to peeking at the solution, I made sure I understood how to get to there so that I can solve it the next time. 
