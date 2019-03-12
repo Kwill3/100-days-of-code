@@ -184,4 +184,10 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Today's Progress**: Got stumped on one of the algorithm challenges today, I am required to produce the LCM (lowest common multiple) of numbers within a range. Had to look up the solution which utilises the Euclidian Method to solve the problem.
 
-**Thoughts**: Although I had to resort to peeking at the solution, I made sure I understood how to get to there so that I can solve it the next time. 
+**Thoughts**: Although I had to resort to peeking at the solution, I made sure I understood how to get to there so that I can solve it the next time.
+
+<h2 align="center"> Day 22: 12 March 2019 </h2>
+
+**Today's Progress**: Completed one intermediate algo challenge and studied about flattening deep arrays. 
+
+**Thoughts**: Flattening deep arrays using Array.reduce() is very handy but I am still trying to wrap my head around the idea. It feels like trying to imagine a 4D structure, not so intuitive.
