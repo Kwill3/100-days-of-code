@@ -191,3 +191,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Completed one intermediate algo challenge and studied about flattening deep arrays. 
 
 **Thoughts**: Flattening deep arrays using Array.reduce() is very handy but I am still trying to wrap my head around the idea. It feels like trying to imagine a 4D structure, not so intuitive.
+
+<h2 align="center"> Day 23: 13 March 2019 </h2>
+
+**Today's Progress**: Completed three intermediate algos today, I am almost done with all the challenges, just one more to go and I'll be attempting the certification projects.
+
+**Thoughts**: The challenges certainly seem to be getting easier as I get to the end, it's either I have gotten confident with my skills (more likely) or FreeCodeCamp arranges the challenges from difficult to easy (less likely). In any case, I am excited to be moving forward and to be getting my certification soon!
