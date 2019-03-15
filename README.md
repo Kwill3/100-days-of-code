@@ -197,3 +197,13 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Completed three intermediate algos today, I am almost done with all the challenges, just one more to go and I'll be attempting the certification projects.
 
 **Thoughts**: The challenges certainly seem to be getting easier as I get to the end, it's either I have gotten confident with my skills (more likely) or FreeCodeCamp arranges the challenges from difficult to easy (less likely). In any case, I am excited to be moving forward and to be getting my certification soon!
+
+<h2 align="center"> Day 24: 14 March 2019 </h2>
+
+**Today's Progress**: Finally completed the final intermediate algo challenge and also one of the FCC Algorithm and Data Structure Project!!!
+
+**Resources**: [Intermediate Algorithms @ GitHub](https://github.com/Kwill3/FCC-Intermediate-Algorithms)
+[Data Structure and Algorithm Projects @ GitHub](https://github.com/Kwill3/FCC-Data-Structure-Algo-Projects)
+[FCC Data Structure and Algorithm Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects)
+
+**Thoughts**: It may not seem like much but this is a BIG DEAL for me! I've actually started JS on FCC for a while now and had completed some of the projects previously except for the last one which is the Cash Register project. I couldn't brain how to solve it myself until today, all the practices on intermediate algos definitely paid off. This actually means that I have gotten my Javascript Certification at last! Next milestone would be to continue on the Front End Libraries Certification by FCC, I previously stopped on React so I will be picking up where I left off.
