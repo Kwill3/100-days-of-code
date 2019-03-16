@@ -207,3 +207,12 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [FCC Data Structure and Algorithm Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects)
 
 **Thoughts**: It may not seem like much but this is a BIG DEAL for me! I've actually started JS on FCC for a while now and had completed some of the projects previously except for the last one which is the Cash Register project. I couldn't brain how to solve it myself until today, all the practices on intermediate algos definitely paid off. This actually means that I have gotten my Javascript Certification at last! Next milestone would be to continue on the Front End Libraries Certification by FCC, I previously stopped on React so I will be picking up where I left off.
+
+<h2 align="center"> Day 25: 15 March 2019 </h2>
+
+**Today's Progress**: Got started on the React module on FreeCodeCamp and Codecademy. 
+
+**Resources**: [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
+[Codecademy React Course](https://www.codecademy.com/learn/react-101)
+
+**Thoughts**: React is a very interesting library, I can see how useful it could be to learn. Will be finishing the course before I move on to the projects.
