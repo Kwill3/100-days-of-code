@@ -216,3 +216,7 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [Codecademy React Course](https://www.codecademy.com/learn/react-101)
 
 **Thoughts**: React is a very interesting library, I can see how useful it could be to learn. Will be finishing the course before I move on to the projects.
+
+<h2 align="center"> Day 26: 16 March 2019 </h2>
+
+**Today's Progress**: Still progressing on the React module, no further updates so far.
