@@ -220,3 +220,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 <h2 align="center"> Day 26: 16 March 2019 </h2>
 
 **Today's Progress**: Still progressing on the React module, no further updates so far.
+
+<h2 align="center"> Day 27: 17 March 2019 </h2>
+
+**Today's Progress**: Learned about states and props in the React Module today.
+
+**Thoughts**: React seems to be a really useful library, its great how states can update the DOM in 'real time' by using set.State(). I can see why React is one of the popular libraries used in recent times. I hope to be able to build some really interesting projects using React soon. 
