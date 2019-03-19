@@ -226,3 +226,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Learned about states and props in the React Module today.
 
 **Thoughts**: React seems to be a really useful library, its great how states can update the DOM in 'real time' by using set.State(). I can see why React is one of the popular libraries used in recent times. I hope to be able to build some really interesting projects using React soon. 
+
+<h2 align="center"> Day 28: 18 March 2019 </h2>
+
+**Today's Progress**: Learning about React Lifecycle Methods
+
+**Thoughts**: Still a bit fuzzy about lifecycle methods, there are so many of them that I might require some usage before I can familiarise myself with them all.
