@@ -232,3 +232,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Learning about React Lifecycle Methods
 
 **Thoughts**: Still a bit fuzzy about lifecycle methods, there are so many of them that I might require some usage before I can familiarise myself with them all.
+
+<h2 align="center"> Day 29: 19 March 2019 </h2>
+
+**Today's Progress**: Learnt about inline stles, ternary expression, and conditionals in React render method. 
+
+**Thoughts**: I am just a few more lessons away from completing the FCC React Module, next up is the Redux module and the React Redux Module. Don't know if I will go through them or go straight to starting a React project to get some experience with working with React. Will look up how to proceed from here.
