@@ -238,3 +238,15 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Learnt about inline stles, ternary expression, and conditionals in React render method. 
 
 **Thoughts**: I am just a few more lessons away from completing the FCC React Module, next up is the Redux module and the React Redux Module. Don't know if I will go through them or go straight to starting a React project to get some experience with working with React. Will look up how to proceed from here.
+
+<h2 align="center"> Day 30: 20 March 2019 </h2>
+
+**Today's Progress**: I've completed the React lessons in Codecademy and FCC. I also went through Codecademy's article to setup React on my computer.
+
+**Resources**: [React Setup on Codecademy part I (npm)](https://www.codecademy.com/articles/react-setup-i)
+[React Setup on Codecademy part II (Babel)](https://www.codecademy.com/articles/react-setup-ii)
+[React Setup on Codecademy part III (Webpack)](https://www.codecademy.com/articles/react-setup-iii)
+[React Setup part IV](https://www.codecademy.com/articles/react-setup-iv)
+[React Setup part V](https://www.codecademy.com/articles/react-setup-v)
+
+**Thoughts**: Training wheels are off! Codecademy makes really good articles that guides you step by step to create your React Project, I'm glad to have access to such useful resources. I am sure I will be coming back to the articles many times in the future to create my modules. Next up I will be trying to start some React Projects from scratch and see what interesting stuff I can make!
