@@ -250,3 +250,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [React Setup part V](https://www.codecademy.com/articles/react-setup-v)
 
 **Thoughts**: Training wheels are off! Codecademy makes really good articles that guides you step by step to create your React Project, I'm glad to have access to such useful resources. I am sure I will be coming back to the articles many times in the future to create my modules. Next up I will be trying to start some React Projects from scratch and see what interesting stuff I can make!
+
+<h2 align="center"> Day 31: 21 March 2019 </h2>
+
+**Today's Progress**: Found out that I could start a React App using Facebook's node module, which is far simpler than what I have gone through yesterday. Basically what I did was went through the process manually but I think it is suffice to use the node module to generate a boilerplate version for my purposes for now. I also went through Reactjs.org's tutorial to build a simple tic-tac-toe game just to get a feel for making my first project.
+
+**Resources**: [Codecademy - How to Create a React App](https://www.codecademy.com/articles/how-to-create-a-react-app)
+
+**Thoughts**: Just when I thought the training wheels can be removed, turns out I still need them. That's coding for you. While I am learning all these stuff, I am starting to have an inkling of what I want to build for my first project. It will be a board game that I've played a lot with my brother as a child, I won't reveal it yet because its better if you see the final product for yourself. I wonder if I can manage to build it. 
