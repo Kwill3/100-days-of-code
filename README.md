@@ -258,3 +258,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [Codecademy - How to Create a React App](https://www.codecademy.com/articles/how-to-create-a-react-app)
 
 **Thoughts**: Just when I thought the training wheels can be removed, turns out I still need them. That's coding for you. While I am learning all these stuff, I am starting to have an inkling of what I want to build for my first project. It will be a board game that I've played a lot with my brother as a child, I won't reveal it yet because its better if you see the final product for yourself. I wonder if I can manage to build it. 
+
+<h2 align="center"> Day 32: 22 March 2019 </h2>
+
+**Today's Progress**: Successfully built the tic-tac-toe project according to the steps given.
+
+**Resources**: [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+**Thoughts**: It was fairly easy to follow the step by step guide to build the tic-tac-toe app, but I wonder if I will be able to build an app on my own from scratch. I've been scribbling out on random papers about how my next project will look like. I can't wait to get started!
