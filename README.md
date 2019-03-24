@@ -266,3 +266,17 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 **Thoughts**: It was fairly easy to follow the step by step guide to build the tic-tac-toe app, but I wonder if I will be able to build an app on my own from scratch. I've been scribbling out on random papers about how my next project will look like. I can't wait to get started!
+
+<h2 align="center"> Day 33: 23 March 2019 </h2>
+
+**Today's Progress**: I've started to build my first app in React but still haven't figured out how to get it uploaded to GitHub. Probably going to try using GitHub Pages.
+
+**Resources**: [GitHub Pages](https://pages.github.com/)
+
+**Thoughts**: I've quickly ran into obstacles as soon as I started on the project, I might have planned a more complicated project than I could handle. I might have to create a more simplified version of it before I can find ways to ramp it up to the version I envisioned it to be.
+
+<h2 align="center"> Day 34: 24 March 2019 </h2>
+
+**Today's Progress**: Today I tried to deploy a test react app to GitHub Pages. Also continued to work on the React App.
+
+**Thoughts**: Deploying a React App is more complicated than I thought, I kinda figured it would be like pushing a new commit into GitHub and merging it with the master branch. However its a lot to do with editing the package.json file, dependencies and the scripts. Could not get it to work correctly yet.
