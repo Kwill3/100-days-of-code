@@ -280,3 +280,7 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Today I tried to deploy a test react app to GitHub Pages. Also continued to work on the React App.
 
 **Thoughts**: Deploying a React App is more complicated than I thought, I kinda figured it would be like pushing a new commit into GitHub and merging it with the master branch. However its a lot to do with editing the package.json file, dependencies and the scripts. Could not get it to work correctly yet.
+
+<h2 align="center"> Day 35: 25 March 2019 </h2>
+
+**Today's Progress**: The React App continues to stump me, but I am making progress. Still couldn't get the deployment to work!
