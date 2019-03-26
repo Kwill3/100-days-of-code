@@ -284,3 +284,12 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 <h2 align="center"> Day 35: 25 March 2019 </h2>
 
 **Today's Progress**: The React App continues to stump me, but I am making progress. Still couldn't get the deployment to work!
+
+<h2 align="center"> Day 36: 26 March 2019 </h2>
+
+**Today's Progress**: Finally managed to deploy my test app, which was the tutorial build from [reactjs.org](https://reactjs.org/tutorial/tutorial.html)! 
+
+**Resources**: [Deploying a ReactApp to GitHub Pages](https://github.com/gitname/react-gh-pages/tree/master)
+[My first test upload](https://kwill3.github.io/TicTacToe/)
+
+**Thoughts**: This tutorial in the resources is the best tutorial I have come across by far, because it goes through the step by step process you need to take and also explains what the commands are doing. I've read through a lot of discussions and also watched YouTube clips where they just blazed through the steps and left me more confused. 
