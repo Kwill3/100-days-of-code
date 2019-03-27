@@ -293,3 +293,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [My first test upload](https://kwill3.github.io/TicTacToe/)
 
 **Thoughts**: This tutorial in the resources is the best tutorial I have come across by far, because it goes through the step by step process you need to take and also explains what the commands are doing. I've read through a lot of discussions and also watched YouTube clips where they just blazed through the steps and left me more confused. 
+
+<h2 align="center"> Day 37: 27 March 2019 </h2>
+
+**Today's Progress**: Started learning Redux on FCC.
+
+**Resources**: [FCC Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+**Thoughts**: After getting so stuck trying to even complete my first React Project, I've decided to get through with the FCC Front End Libraries Certification first before I pick up where I left off. I don't believe I have the required experience to complete the project that I want to create. Hopefully I can get back to it soon.
