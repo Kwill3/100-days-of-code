@@ -301,3 +301,20 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [FCC Redux](https://learn.freecodecamp.org/front-end-libraries/redux)
 
 **Thoughts**: After getting so stuck trying to even complete my first React Project, I've decided to get through with the FCC Front End Libraries Certification first before I pick up where I left off. I don't believe I have the required experience to complete the project that I want to create. Hopefully I can get back to it soon.
+
+<h2 align="center"> Day 38: 29 March 2019 </h2>
+
+**Today's Progress**: Started building a React calculator app by following a youtube video.
+
+**Resources**: [Calculator App Youtube Tutorial](https://www.youtube.com/watch?v=KzYUuTiHdiY)
+[React setState](https://reactjs.org/docs/react-component.html#setstate)
+
+**Thoughts**: I've followed a tutorial to build a calculator for the most part, but I implemented my own features to it that is more advanced than the one shown in the video. For example percentage calculation functionality (still needs to be tidied up) and also having a backspace function (which I used a neat little icon to symbolise). I also have a nice multiline equation display which I am very proud of. I was stuck at the evaluation part for a long time because I needed to manipulate the state multiple times in a function, had to do a lot of research on the internet and came up with the solution of using the callback function in setState to follow up immediately after the state is changed. This is because React batches state changes and this causes the chronology to be a little complicated. There was also a preferred option to use component lifecycles but that was a little too complicated for me to implement.
+
+<h2 align="center"> Day 39: 30 March 2019 </h2>
+
+**Today's Progress**: Continued performing bug fixes and improving the calculator app. 
+
+**Resources**: [React Calculator on GitHub](https://github.com/Kwill3/calculator)
+
+**Thoughts**: I've uploaded the calculator app on GitHub and continued to improve on the buggy areas of the app. Fixed the issue of equations being evaluated but consequent calculations causing the new equations to be concatenated to the previous solutions. Will however, need to show the percentage symbol whenever using the percentage calculations. Fixed backspace button throwing error after a calculation, fixed operators not working correctly when switching operators halfway through a calculation, added functionality to perform multiple calculations using the operators without needing to use the "=" button, added reset functionality after completing a calculation, fixed percentage calculations which was incorrect. Although there are still work to be done, I'm very proud of the product I've come up with, please check it out on the link in resources!
