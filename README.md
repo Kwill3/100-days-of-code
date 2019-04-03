@@ -318,3 +318,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [React Calculator on GitHub](https://github.com/Kwill3/calculator)
 
 **Thoughts**: I've uploaded the calculator app on GitHub and continued to improve on the buggy areas of the app. Fixed the issue of equations being evaluated but consequent calculations causing the new equations to be concatenated to the previous solutions. Will however, need to show the percentage symbol whenever using the percentage calculations. Fixed backspace button throwing error after a calculation, fixed operators not working correctly when switching operators halfway through a calculation, added functionality to perform multiple calculations using the operators without needing to use the "=" button, added reset functionality after completing a calculation, fixed percentage calculations which was incorrect. Although there are still work to be done, I'm very proud of the product I've come up with, please check it out on the link in resources!
+
+<h2 align="center"> Day 40: 03 April 2019 </h2>
+
+**Today's Progress**: After a few days of absence, I'm finally back to coding with a new React app. This time I will be trying to make an app that fetches data from an API.
+
+**Thoughts**: To train my skills with React, I need to make more projects which varies in their applications. I still find myself struggling to design the apps sometimes, hopefully as I make more projects I can train myself to get a better flow.
