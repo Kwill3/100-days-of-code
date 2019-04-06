@@ -324,3 +324,17 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: After a few days of absence, I'm finally back to coding with a new React app. This time I will be trying to make an app that fetches data from an API.
 
 **Thoughts**: To train my skills with React, I need to make more projects which varies in their applications. I still find myself struggling to design the apps sometimes, hopefully as I make more projects I can train myself to get a better flow.
+
+<h2 align="center"> Day 41: 05 April 2019 </h2>
+
+**Today's Progress**: Having issues trying to fetch the API data into my app, still figuring out the fetch function. I'm using the Giphy API for this app.
+
+**Resources**: [GIPHY API documentation](https://developers.giphy.com/docs/#path--gifs-search)
+
+**Thoughts**: I am getting better at making apps with React, a lot of the knowledge is sticking into my brain better this time around. I can see that eventually all this is going to be second nature to me.
+
+<h2 align="center"> Day 42: 06 April 2019 </h2>
+
+**Today's Progress**: Managed to get the Giphy API to work and fetched some GIFs into my app. I have almost completed the app if not for a few more kinks that I can't seem to iron out.
+
+**Thoughts**: Going through many React API tutorials really helped improve my understanding on fetching API data, eventually I will need to work on the posting part of it. Right now I have an issue with clearing the GIFs after every button click since I used 'createElement' and 'appendChild' to display my array of gif links. Somehow 'document.getElementByXXX' seems to be failing in my react components, unless it is to fetch 'root' or 'body'. 
