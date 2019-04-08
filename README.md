@@ -338,3 +338,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Managed to get the Giphy API to work and fetched some GIFs into my app. I have almost completed the app if not for a few more kinks that I can't seem to iron out.
 
 **Thoughts**: Going through many React API tutorials really helped improve my understanding on fetching API data, eventually I will need to work on the posting part of it. Right now I have an issue with clearing the GIFs after every button click since I used 'createElement' and 'appendChild' to display my array of gif links. Somehow 'document.getElementByXXX' seems to be failing in my react components, unless it is to fetch 'root' or 'body'. 
+
+<h2 align="center"> Day 43: 09 April 2019 </h2>
+
+**Today's Progress**: Completed Giphy API app.
+
+**Resources**: [Gifme App at Github Pages](http://Kwill3.github.io/gifme)
+
+**Thoughts**: This project turned out way more difficult than I had anticipated. The pitfall that hindered me the most is trying to manipulate the src attribute of the images. For some reason I couldn't think of how to get it to work. Had to look that up after a few days of futile attempts. 
