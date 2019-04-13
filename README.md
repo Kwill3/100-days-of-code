@@ -369,3 +369,5 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Starting a new project that will be using API and React Router.
 
 **Resources**: [React Router](https://reacttraining.com/react-router/web/example/basic)
+
+**Thoughts**: Still a little confused about the linking part of React Router. I am trying to link different components in different files but having no success so far. But I am excited to be doing this project using React Router, it is going to be great.
