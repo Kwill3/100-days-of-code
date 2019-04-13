@@ -345,4 +345,27 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Resources**: [Gifme App at Github Pages](http://Kwill3.github.io/gifme)
 
-**Thoughts**: This project turned out way more difficult than I had anticipated. The pitfall that hindered me the most is trying to manipulate the src attribute of the images. For some reason I couldn't think of how to get it to work. Had to look that up after a few days of futile attempts. 
+**Thoughts**: This project turned out way more difficult than I had anticipated. The pitfall that hindered me the most is trying to manipulate the src attribute of the images. For some reason I couldn't think of how to get it to work. Had to look that up after a few days of futile attempts. But at least I got it done, now I have another app in the pocket.
+
+<h2 align="center"> Day 44: 10 April 2019 </h2>
+
+**Today's Progress**: Did a little tweaking on the Giphy API app, search function improved to allow for multi word search. Fixed bugs - GitHub Pages doesn't allow API data from http sites. The app is running as it should now.
+
+**Resources**: [Gifme App at Github Pages](http://Kwill3.github.io/gifme)
+[Better Coding Academy on React Code Review](https://www.youtube.com/playlist?list=PLnTRniWXnjf-q34UdkkEFbhblMaIhZ0LF)
+
+**Thoughts**: I feel like I did a good job on the app, although it looks terrible when I opened it on my mobile, probably need to fix that sometime in the future. I also came across a React code refactoring video on YouTube, where the person reviews the code written by someone else and I learnt a lot about writing neat code. 
+
+<h2 align="center"> Day 45: 11 April 2019 </h2>
+
+**Today's Progress**: Did another round of tweaking on the Giphy API app to make it look better on smaller devices.
+
+**Resources**: [srcSet documentation](https://snowball.digital/blog/responsive-images-in-react-with-srcset)
+
+**Thoughts**: I used 'srcSet' to pick sizes for my gifs used, and changed some other styling sizes. I think I am finally done with this project, on to the next one! 
+
+<h2 align="center"> Day 46: 12 April 2019 </h2>
+
+**Today's Progress**: Starting a new project that will be using API and React Router.
+
+**Resources**: [React Router](https://reacttraining.com/react-router/web/example/basic)
