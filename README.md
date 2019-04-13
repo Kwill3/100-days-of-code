@@ -371,3 +371,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [React Router](https://reacttraining.com/react-router/web/example/basic)
 
 **Thoughts**: Still a little confused about the linking part of React Router. I am trying to link different components in different files but having no success so far. But I am excited to be doing this project using React Router, it is going to be great.
+
+<h2 align="center"> Day 47: 13 April 2019 </h2>
+
+**Today's Progress**: Making good progress on the latest project, I actually learnt a lot today on React Routers.
+
+**Resources**: [Passing State from React Router to Components](https://stackoverflow.com/questions/50616080/how-to-pass-state-in-react-router-to-components)
+
+**Thoughts**: I managed to resolve the issue with passing states into React Routed Components. Frankly I am having a lot of fun on this project, working with NASA API is very interesting. It is going to be a good one, I know it. There is just so much lesser frustration and more sense of accomplishment with every obstacle I manage to overcome. 
