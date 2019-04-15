@@ -368,7 +368,7 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Today's Progress**: Starting a new project that will be using API and React Router.
 
-**Resources**: [React Router](https://reacttraining.com/react-router/web/example/basic)
+**Resources**: [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
 **Thoughts**: Still a little confused about the linking part of React Router. I am trying to link different components in different files but having no success so far. But I am excited to be doing this project using React Router, it is going to be great.
 
@@ -379,3 +379,15 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [Passing State from React Router to Components](https://stackoverflow.com/questions/50616080/how-to-pass-state-in-react-router-to-components)
 
 **Thoughts**: I managed to resolve the issue with passing states into React Routed Components. Frankly I am having a lot of fun on this project, working with NASA API is very interesting. It is going to be a good one, I know it. There is just so much lesser frustration and more sense of accomplishment with every obstacle I manage to overcome. 
+
+<h2 align="center"> Day 48: 14 April 2019 </h2>
+
+**Today's Progress**: Ongoing progress on the NASA API app, managed to overcome several hurdles today.
+
+**Thoughts**: Today I was facing an issue which stumped me for a long time, an undefined prop which I am definitely sure wasn't the case because I had used that same method previously. Turns out it was because I was using it in a stateless/functional component and I did not pass in the prop as an argument. I was using stateful components all the while which is why I never had this problem previously. Such a silly little mistake which ended up taking so much time, but I am glad I learnt from it.
+
+<h2 align="center"> Day 49: 15 April 2019 </h2>
+
+**Today's Progress**: Almost completely done with the functionality of the NASA API app, just crossing the Ts and dotting the Is. Doing some bug checking and then will be proceeding to CSS styling for the app. 
+
+**Thoughts**: My approach to this project is different from the rest I had done; in the sense that I decided to build the barebones functionality of the app before I went ahead to design the aesthetics of it. I feel by doing it this way I can quickly get the ideas down into the app and materialise it better. CSS is always my weaker point so if I leave it for last I can take my time and not stress out because at least I already know that the app works.
