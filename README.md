@@ -391,3 +391,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Almost completely done with the functionality of the NASA API app, just crossing the Ts and dotting the Is. Doing some bug checking and then will be proceeding to CSS styling for the app. 
 
 **Thoughts**: My approach to this project is different from the rest I had done; in the sense that I decided to build the barebones functionality of the app before I went ahead to design the aesthetics of it. I feel by doing it this way I can quickly get the ideas down into the app and materialise it better. CSS is always my weaker point so if I leave it for last I can take my time and not stress out because at least I already know that the app works.
+
+<h2 align="center"> Day 50: 16 April 2019 </h2>
+
+**Today's Progress**: The final steps prove to be the most difficult. Still stuck on trying to finish the functionality. 
+
+**Thoughts**: React doesn't allow for objects to be a child element, only primitive values. Thus I will need to find a solution to pass down the entire data returned by NASA API which is in the form of a deeply nested object. Although not impossible, I might need a bit more time to process the whole thing. At least I am not stuck, just moving veeeery slowly...
