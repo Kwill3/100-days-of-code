@@ -397,3 +397,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: The final steps prove to be the most difficult. Still stuck on trying to finish the functionality. 
 
 **Thoughts**: React doesn't allow for objects to be a child element, only primitive values. Thus I will need to find a solution to pass down the entire data returned by NASA API which is in the form of a deeply nested object. Although not impossible, I might need a bit more time to process the whole thing. At least I am not stuck, just moving veeeery slowly...
+
+<h2 align="center"> Day 51: 17 April 2019 </h2>
+
+**Today's Progress**: Continued on the NASA API app. Managed to solve a big hurdle again today.
+
+**Resources**: [componentDidUpdate documentation](https://reactjs.org/docs/react-component.html#componentdidupdate)
+
+**Thoughts**: I moved my api call into a subcomponent because it wasn't used in the parent component and I have never done that before. As such, I was struggling to fetch the API call because I didn't use my lifecycles correctly. At first I was calling a function in the render method which will then fetch the API and set the new state from the API data but an error appeared because changing states in the render method will cause an infinite loop. Then I used componentWillMount but since I need to fetch the API every time a form submitted, that obviously didn't work. So lastly, I changed it to componentDidUpdate. It was my first time using it and I ended up making an infinite did-update loop which blew my API call limit on the demo key I was using. After which I found out about comparing props in the componentDidUpdate method if states will be updated within the method. I wished I had read it earlier but then again, making this mistake is a lesson learned and I bet I will remember it the next time around. 
