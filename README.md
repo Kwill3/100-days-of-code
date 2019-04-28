@@ -424,4 +424,14 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Today's Progress**: Today's focus was to implement pagination to the image search. Additionally, fixed a bug not fetching all the camera images from the rover. I need to set unique keys for the images as the next steps.
 
-**Thoughts**: I am back from my trip! Can't believe I am saying this but I am glad to be able to continue on my app. Started fresh on implementing pagination to my app but still haven't gotten it to work. 
+**Resources**: [Pagination npm published](http://jasonwatmore.com/post/2018/04/10/npm-jw-react-pagination-component)
+
+**Thoughts**: I am back from my trip! Can't believe I am saying this but I am glad to be able to continue on my app. Started fresh on implementing pagination to my app, I found this npm published pagination component but still haven't gotten it to work. 
+
+<h2 align="center"> Day 55: 28 April 2019 </h2>
+
+**Today's Progress**: Continued working on the pagination, managed to get it to work. Also utilised the ID from the API to be the keys for respective image divs.
+
+**Resources**: [Pagination](https://stackoverflow.com/questions/40232847/how-to-implement-pagination-in-reactjs)
+
+**Thoughts**: I managed to get my pagination to work using some code from stack overflow. The only thing I dislike about my code is that it needs to be cleaned, seems like that one component is doing too many things. With that, I have completed the functionality part of the app. Everything seems to be working as it should, will be testing for bugs once I complete the aesthetics part of the app. 
