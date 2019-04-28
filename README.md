@@ -419,3 +419,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Thoughts**: Managed to solve the issue of not being able to pass down the data returned from API calls because React child components are not allowed to be objects or deeply nested arrays. I compiled each set of data I needed from the API call and pushed them into sets of arrays, which I then 'zipped' together in a function and mapped them into each individual image element. The latest problem I have now is to implement pagination to the data received from NASA API. Sometimes the search returns too big a database and pages will need to be implemented to prevent large download sizes happening at one go.
 
 **Note**: I will be travelling to Germany for a week from tomorrow onwards therefore my 100 days of code quest will have to be put on hold temporarily; since I have no way to bring my laptop along with me. I may still be able to code a little here and there on my phone using SoloLearn but not big projects probably.
+
+<h2 align="center"> Day 54: 27 April 2019 </h2>
+
+**Today's Progress**: Today's focus was to implement pagination to the image search. Additionally, fixed a bug not fetching all the camera images from the rover. I need to set unique keys for the images as the next steps.
+
+**Thoughts**: I am back from my trip! Can't believe I am saying this but I am glad to be able to continue on my app. Started fresh on implementing pagination to my app but still haven't gotten it to work. 
