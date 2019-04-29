@@ -435,3 +435,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [Pagination](https://stackoverflow.com/questions/40232847/how-to-implement-pagination-in-reactjs)
 
 **Thoughts**: I managed to get my pagination to work using some code from stack overflow. The only thing I dislike about my code is that it needs to be cleaned, seems like that one component is doing too many things. With that, I have completed the functionality part of the app. Everything seems to be working as it should, will be testing for bugs once I complete the aesthetics part of the app. 
+
+<h2 align="center"> Day 56: 29 April 2019 </h2>
+
+**Today's Progress**: Started designing the CSS part of the app. Found some more bugs on the fetching API part, so spent some time fixing those too.
+
+**Thoughts**: Although I am a lot better in CSS now, I still feel it looks a little basic. No matter, I am still proud of what I have created using React. Should be able to finish up soon if I dont discover more bugs.
