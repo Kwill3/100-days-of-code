@@ -441,3 +441,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Started designing the CSS part of the app. Found some more bugs on the fetching API part, so spent some time fixing those too.
 
 **Thoughts**: Although I am a lot better in CSS now, I still feel it looks a little basic. No matter, I am still proud of what I have created using React. Should be able to finish up soon if I dont discover more bugs.
+
+<h2 align="center"> Day 57: 30 April 2019 </h2>
+
+**Today's Progress**: Changed the favicon of the site, styled navigation headers and the footer, changed fonts and sizes. Image gallery still needs work though.
+
+**Resources**: [How to change your app favicons](https://serverless-stack.com/chapters/add-app-favicons.html)
+
+**Thoughts**: Progress is running smoothly, should be able to deploy the site soon. I already have plans to add a new manifest table functionality so users can fetch results based on that. 
