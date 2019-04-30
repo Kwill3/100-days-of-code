@@ -419,3 +419,33 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Thoughts**: Managed to solve the issue of not being able to pass down the data returned from API calls because React child components are not allowed to be objects or deeply nested arrays. I compiled each set of data I needed from the API call and pushed them into sets of arrays, which I then 'zipped' together in a function and mapped them into each individual image element. The latest problem I have now is to implement pagination to the data received from NASA API. Sometimes the search returns too big a database and pages will need to be implemented to prevent large download sizes happening at one go.
 
 **Note**: I will be travelling to Germany for a week from tomorrow onwards therefore my 100 days of code quest will have to be put on hold temporarily; since I have no way to bring my laptop along with me. I may still be able to code a little here and there on my phone using SoloLearn but not big projects probably.
+
+<h2 align="center"> Day 54: 27 April 2019 </h2>
+
+**Today's Progress**: Today's focus was to implement pagination to the image search. Additionally, fixed a bug not fetching all the camera images from the rover. I need to set unique keys for the images as the next steps.
+
+**Resources**: [Pagination npm published](http://jasonwatmore.com/post/2018/04/10/npm-jw-react-pagination-component)
+
+**Thoughts**: I am back from my trip! Can't believe I am saying this but I am glad to be able to continue on my app. Started fresh on implementing pagination to my app, I found this npm published pagination component but still haven't gotten it to work. 
+
+<h2 align="center"> Day 55: 28 April 2019 </h2>
+
+**Today's Progress**: Continued working on the pagination, managed to get it to work. Also utilised the ID from the API to be the keys for respective image divs.
+
+**Resources**: [Pagination](https://stackoverflow.com/questions/40232847/how-to-implement-pagination-in-reactjs)
+
+**Thoughts**: I managed to get my pagination to work using some code from stack overflow. The only thing I dislike about my code is that it needs to be cleaned, seems like that one component is doing too many things. With that, I have completed the functionality part of the app. Everything seems to be working as it should, will be testing for bugs once I complete the aesthetics part of the app. 
+
+<h2 align="center"> Day 56: 29 April 2019 </h2>
+
+**Today's Progress**: Started designing the CSS part of the app. Found some more bugs on the fetching API part, so spent some time fixing those too.
+
+**Thoughts**: Although I am a lot better in CSS now, I still feel it looks a little basic. No matter, I am still proud of what I have created using React. Should be able to finish up soon if I dont discover more bugs.
+
+<h2 align="center"> Day 57: 30 April 2019 </h2>
+
+**Today's Progress**: Changed the favicon of the site, styled navigation headers and the footer, changed fonts and sizes. Image gallery still needs work though.
+
+**Resources**: [How to change your app favicons](https://serverless-stack.com/chapters/add-app-favicons.html)
+
+**Thoughts**: Progress is running smoothly, should be able to deploy the site soon. I already have plans to add a new manifest table functionality so users can fetch results based on that. 
