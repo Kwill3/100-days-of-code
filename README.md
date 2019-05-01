@@ -449,3 +449,12 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [How to change your app favicons](https://serverless-stack.com/chapters/add-app-favicons.html)
 
 **Thoughts**: Progress is running smoothly, should be able to deploy the site soon. I already have plans to add a new manifest table functionality so users can fetch results based on that. 
+
+<h2 align="center"> Day 58: 01 May 2019 </h2>
+
+**Today's Progress**: I've completed the project! Will be building a portfolio site next to house all my work, using React!
+
+**Resources**: [Space Daily on GitHub Pages](https://kwill3.github.io/space-daily/)
+[Space Daily on GitHub](https://github.com/Kwill3/space-daily)
+
+**Thoughts**: I completed the app early in the day, so I took some time to fix some responsive design to make it look better on mobile. I initially wanted to include a manifest tab but it seems the endpoint is not working, I'll have to contact the person in charge of maintaining the API to see what is wrong with it.
