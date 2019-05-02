@@ -458,3 +458,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [Space Daily on GitHub](https://github.com/Kwill3/space-daily)
 
 **Thoughts**: I completed the app early in the day, so I took some time to fix some responsive design to make it look better on mobile. I initially wanted to include a manifest tab but it seems the endpoint is not working, I'll have to contact the person in charge of maintaining the API to see what is wrong with it.
+
+<h2 align="center"> Day 59: 02 May 2019 </h2>
+
+**Today's Progress**: I've started coding my portfolio site. Just a simple one, shouldn't take too long for me to finish.
+
+**Thoughts**: I've done a portfolio site before using just html and css with w3 bootstrap. This time I am doing it with React and routers. Should be an interesting little project.
