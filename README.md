@@ -464,3 +464,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: I've started coding my portfolio site. Just a simple one, shouldn't take too long for me to finish.
 
 **Thoughts**: I've done a portfolio site before using just html and css with w3 bootstrap. This time I am doing it with React and routers. Should be an interesting little project.
+
+<h2 align="center"> Day 60: 06 May 2019 </h2>
+
+**Today's Progress**: Completed the portfolio site using react.
+
+**Resources**: [Portfolio GitHub](https://kwill3.github.io/portfolio/)
+
+**Thoughts**: Again, the css is not something to die for.. I guess there will always be room for improvement. I learned a ton from trying to move divs to places that I want them to be. Centering is not that intuitive to me.  
