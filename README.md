@@ -469,6 +469,16 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 
 **Today's Progress**: Completed the portfolio site using react.
 
-**Resources**: [Portfolio GitHub](https://kwill3.github.io/portfolio/)
+**Resources**: [Portfolio GitHub](https://kwill3.github.io/Portfolio/)
 
 **Thoughts**: Again, the css is not something to die for.. I guess there will always be room for improvement. I learned a ton from trying to move divs to places that I want them to be. Centering is not that intuitive to me.  
+
+<h2 align="center"> Day 61: 08 May 2019 </h2>
+
+**Today's Progress**: Styled the portfolio using bootstrap. 
+
+**Resources**: [Using Bootstrap with React](https://blog.logrocket.com/how-to-use-bootstrap-with-react-a354715d1121)
+[Bootstrap Navbar styling](https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items)
+[data-toggle in React with Bootstrap](https://stackoverflow.com/questions/52248179/how-to-use-data-toggle-collapse-in-reactjs-with-bootstrap)
+
+**Thoughts**: Learned to use pure React to run functionality of the navbar instead of using the jQuery and JS part of Bootstrap, which is said to cause problems with the DOM as it interferes with React's interaction with the DOM.
