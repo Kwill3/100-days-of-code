@@ -482,3 +482,19 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 [data-toggle in React with Bootstrap](https://stackoverflow.com/questions/52248179/how-to-use-data-toggle-collapse-in-reactjs-with-bootstrap)
 
 **Thoughts**: Learned to use pure React to run functionality of the navbar instead of using the jQuery and JS part of Bootstrap, which is said to cause problems with the DOM as it interferes with React's interaction with the DOM.
+
+<h2 align="center"> Day 62: 09 May 2019 </h2>
+
+**Today's Progress**: Added some more info in About section and changed it into an accordion format. Also changed other stylings of the site.
+
+**Resources**: [React lightweight accordion](https://reactjsexample.com/a-very-lightweight-accordion-component-in-react/)
+
+**Thoughts**: Learned to apply an accordion to one of the pages. With that, I think I am done with the portfolio. It took longer than I expected, on hindsight I should have just used bootstrap from the get go to style everything, that might have been easier than to switch in halfway.
+
+<h2 align="center"> Day 63: 15 May 2019 </h2>
+
+**Today's Progress**: I've been continuing with the FreeCodeCamp syllabus, going back to Redux where I last stopped. 
+
+**Resources**: [Understanding and using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+
+**Thoughts**: Redux seems to be quite sought after in the working world, I have been seeing a lot of recruiters looking for coders with React and Redux experience as a package. Will be honing this skill to improve my value as a coder. On another note, after 2 weeks I finally figured out how to use the manifest endpoint on the NASA API! Seems kinda silly now that I figured out my mistake, that it was a small one. I figured it out because I was reading this post about RESTful API, linked in the resources.
