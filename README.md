@@ -498,3 +498,9 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Resources**: [Understanding and using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 **Thoughts**: Redux seems to be quite sought after in the working world, I have been seeing a lot of recruiters looking for coders with React and Redux experience as a package. Will be honing this skill to improve my value as a coder. On another note, after 2 weeks I finally figured out how to use the manifest endpoint on the NASA API! Seems kinda silly now that I figured out my mistake, that it was a small one. I figured it out because I was reading this post about RESTful API, linked in the resources.
+
+<h2 align="center"> Day 64: 17 May 2019 </h2>
+
+**Today's Progress**: Completed Redux subtopic on FCC but got stuck in React Redux subtopic. Will be doing more studying on other sources before I continue.
+
+**Resources**: [React Redux Crash Course](https://www.youtube.com/watch?v=93p3LxR9xfM)
