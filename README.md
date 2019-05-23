@@ -504,3 +504,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Today's Progress**: Completed Redux subtopic on FCC but got stuck in React Redux subtopic. Will be doing more studying on other sources before I continue.
 
 **Resources**: [React Redux Crash Course](https://www.youtube.com/watch?v=93p3LxR9xfM)
+
+<h2 align="center"> Day 65: 23 May 2019 </h2>
+
+**Today's Progress**: Learned to use React-Redux. Specifically about Provider and how to connect React with Redux. 
+
+**Thoughts**: The React-Redux crash course video was very helpful, I managed to spot my mistake and have gotten the ball rolling again. As mentioned in the video, React-Redux requires an extensive setting up for the boilerplates before you can actually start working on it. To fully be able to remember the mechanics of it I am thinking I need some hands-on experience, maybe to build an app with React-Redux so that I can cement that knowledge. I have so many projects in my to-do list that I need to start doing.
+
+**Sidenote**: I have been busy actively applying for developer roles for the past couple of weeks so my activity in 100 days of code have been severely affected. However I am still determined to complete the challenge regardless, right now I am squeezing in FCC sessions to try to obtain one more certification. I am hopeful for a new career in tech, looking forward to it.
