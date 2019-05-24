@@ -512,3 +512,11 @@ Hello World! William Lee here and this is my log for the 100 Days of Code challe
 **Thoughts**: The React-Redux crash course video was very helpful, I managed to spot my mistake and have gotten the ball rolling again. As mentioned in the video, React-Redux requires an extensive setting up for the boilerplates before you can actually start working on it. To fully be able to remember the mechanics of it I am thinking I need some hands-on experience, maybe to build an app with React-Redux so that I can cement that knowledge. I have so many projects in my to-do list that I need to start doing.
 
 **Sidenote**: I have been busy actively applying for developer roles for the past couple of weeks so my activity in 100 days of code have been severely affected. However I am still determined to complete the challenge regardless, right now I am squeezing in FCC sessions to try to obtain one more certification. I am hopeful for a new career in tech, looking forward to it.
+
+<h2 align="center"> Day 66: 24 May 2019 </h2>
+
+**Today's Progress**: Completed the React-Redux syllabus. Moving on to FCC Front-End Libraries Projects. Starting with a quote generator project.
+
+**Resources**: [React Static Data](https://stackoverflow.com/questions/41876752/hardcoded-strings-static-contents-in-react-redux-app)
+
+**Thoughts**: Main thing I learned today is to use static data on an external js file and export it to the React component I am using it in.
